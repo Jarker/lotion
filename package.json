@@ -1,5 +1,5 @@
 {
-  "name": "@dashibase/lotion",
+  "name": "@jarker/lotion",
   "version": "0.1.5",
   "type": "module",
   "main": "lib/lolo.js",
