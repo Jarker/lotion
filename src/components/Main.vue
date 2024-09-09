@@ -7,7 +7,7 @@
     <div class="sticky top-0 h-screen overflow-y-auto bg-neutral-50">
       <Markdown :page="page" />
     </div>
-    <div class="shrink-0 px-24 min-w-[50%] mx-auto box-border">
+    <div class="shrink-0 px-24 min-w-[50%] mx-auto box-border dark:bg-zinc-900 dark:text-white">
       <Lotion :page="page" :readonly="readonly" />
     </div>
   </div>
